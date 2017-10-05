@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/gexd7127/git/Udacity/CarND-Traffic-Sign-Classifier-Project/tmp/LeNet_v3_3"
+all_model_checkpoint_paths: "/home/gexd7127/git/Udacity/CarND-Traffic-Sign-Classifier-Project/tmp/LeNet_v3_3"
